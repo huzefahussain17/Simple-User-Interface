@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  .topbtn{
+    border-radius: 30px;
+    color: maroon;
+  
+  }
+ 
+  * {
+    
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .bg-blue {
+    background-color: #316dc3;
+  }
+  
+  .top-head {
+    font-size: 1rem;
+  }
+  
+  .top-btn {
+    font-size: x-small;
+  }
+  
+  /* Menu Design */
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: blue; */
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+   color: grey;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+  
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+  
+    color: maroon;
+    text-decoration: underline;
+    font-weight: bolder;
+    transition: 0.6s ease;
+  
+  
+  }
+  
+  
+  
+  
+  .font-sm {
+    font-size: small;
+  }
+  .redcolor{
+    color: maroon;
+  }
+  .goldencolor{
+    color: goldenrod;
+  }
+  .bold{
+    font-weight: bold;
+  }
+ 
+ 
